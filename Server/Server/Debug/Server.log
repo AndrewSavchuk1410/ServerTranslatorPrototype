@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\andri\source\repos\Server\Server\Server.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andri\source\repos\Server\Server\Server.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Server.vcxproj -> C:\Users\andri\source\repos\Server\Debug\Server.exe
